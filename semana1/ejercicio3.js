@@ -16,7 +16,7 @@ async function main() {
 
   // TODO : Convertir a switch
   //const multiplo5 = number % 5 === 0;
-  //const multiplo3 = number % 3 === 0;
+  //const multiplo3 = number % 3 === 0; 
   //const multiploAmbos = multiplo5 && multiplo3;
   //switch(){
   //  case 1:
