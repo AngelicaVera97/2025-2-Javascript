@@ -7,7 +7,11 @@
 
 const { ask } = require('../helpers/input');
 
+
 async function main() {
+ // const fechaDia = Number(await ask("Ingresa tu dia de nacimiento en el siguiente formato (DD):"));
+ // const fechaMes = Number (await ask("Ingresa tu mes de nacimiento en el siguiente formato (MM)"));
+ // const fechaYear = Number (await ask("Ingresa tu año de nacimiento en el siguiente formato (AAAA)"));
 
 
 }
